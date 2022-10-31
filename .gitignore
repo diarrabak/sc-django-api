@@ -1,9 +1,9 @@
 # .gitignore
 # Project files and directories
-/myproject/local_settings.py
-/myproject/static/
-/myproject/tmp/
-/myproject/media/
+/diango_api/local_settings.py
+/diango_api/static/
+/diango_api/tmp/
+/diango_api/media/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
